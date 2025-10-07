@@ -1,1 +1,8 @@
-
+{
+  "appId": "com.hameed.work",
+  "appName": "hameed work",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
